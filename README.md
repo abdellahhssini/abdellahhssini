@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2022  <br>📚 I'm currently learning: Docker, Node.js, React  <br>🎯 Goals: Build scalable and secure web applications using Spring Boot and Angular, contribute to open-source projects.  <br>🎲 Fun fact: I once spent hours debugging a problem, only to realize it was caused by a missing semicolon!</p>
+<p align="left">✨ Creating bugs since: 2022  <br>📚 I'm currently learning: Docker  <br>🎯 Goals: Build scalable and secure web applications using Spring Boot and Angular/React, contribute to open-source projects.  <br>🎲 Fun fact: I once spent hours debugging a problem, only to realize it was caused by a missing semicolon!</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" height="40" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
